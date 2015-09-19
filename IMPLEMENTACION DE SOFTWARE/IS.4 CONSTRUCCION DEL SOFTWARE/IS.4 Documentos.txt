@@ -1,0 +1,7 @@
+Revision del Plan deproyecto
+
+Revision del Diseño de Software
+
+Componentes de software codificados y Pruebas Unitarias
+
+Trazabilidad de los componentes deSoftware y diseño de software

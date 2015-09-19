@@ -1,0 +1,2 @@
+1. Plan de Proyecto
+2. Establecimiento de un ambiente para la implementacion.

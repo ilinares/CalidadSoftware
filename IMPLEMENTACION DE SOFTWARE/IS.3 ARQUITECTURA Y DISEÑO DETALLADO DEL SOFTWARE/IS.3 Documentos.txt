@@ -1,0 +1,11 @@
+Diseño de la arquitectura desoftware
+
+Diseño detallado de los componentes de software
+
+Especificacion de requisitos
+
+Diseño de software
+
+Casos de prueba
+
+Trazabilidad delos requisitos de diseño de software
